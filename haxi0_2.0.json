@@ -1,0 +1,62 @@
+{
+    "name": "野哥源",
+    "subtitle": "野哥的 ipa 源",
+    "description": "欢迎来到野哥源，这里有很多好用的 ios app",
+    "iconURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
+    "website": "https://mayee.cc/",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "车来了",
+            "bundleIdentifier": "com.chelaile.lite",
+            "developerName": "haxi0",
+            "subtitle": "(sub)实时查看公交到站",
+            "localizedDescription": "(local)实时查看公交到站",
+            "iconURL": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.Jaility/jaility_1.png"
+            ],
+            "versions": [
+                {
+                  "version": "6.46.0",
+                  "date": "2023-12-11",
+                  "localizedDescription": "(version)实时查看公交到站",
+                  "downloadURL": "https://github.com/Ma-yeah/ipas/releases/download/Latest/chelaile_6.46.0_.ipa",
+                  "size": 44781352,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "电话助手(ios16)",
+            "bundleIdentifier": "com.apple.mobilephone-call",
+            "developerName": "haxi0",
+            "subtitle": "(sub)巨魔2可用",
+            "localizedDescription": "(local)巨魔2可用",
+            "iconURL": "https://raw.githubusercontent.com/haxi0/TrollBoard-Reborn/main/TrollBoard%20Reborn/Assets.xcassets/AppIcon.appiconset/TrollBoard.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.haxi0.TrollBoard-Reborn/TrollBoard_1.png",
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.haxi0.TrollBoard-Reborn/TrollBoard_2.png"
+            ],
+            "versions": [
+                {
+                  "version": "36.0",
+                  "date": "2023-12-11",
+                  "localizedDescription": "(version)巨魔2可用",
+                  "downloadURL": "https://github.com/Ma-yeah/ipas/releases/download/Latest/phone_call_ios16.tipa",
+                  "size": 2546665,
+                  "minOSVersion": "16.0",
+                  "maxOSVersion": "16.6.1"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
